@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.cardio.core_card_io-core_card_io.iml" filepath="$PROJECT_DIR$/.idea/modules/core.cardio.core_card_io-core_card_io.iml" group="core_card_io" />
       <module fileurl="file://$PROJECT_DIR$/core_card_io.iml" filepath="$PROJECT_DIR$/core_card_io.iml" />
     </modules>
   </component>
